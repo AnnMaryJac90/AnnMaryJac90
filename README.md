@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ann Mary Jacob
 - 👀 I’m interested in iOS Application Development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning AWS Developer Certification Course
 - 📫 How to reach me annmaryjac90@gmail.com
 
 <!---
